@@ -1,0 +1,36 @@
+1. You must have python-3 and MySQL installed in your computer
+2. You must have these python modules in your system-
+	i	pandas
+	ii	matplotlib
+	iii	mysql-connector-python
+	iv	fpdf
+	
+	*see below instructions to install these modules
+3. Double click(left) on parking.py file and program will start
+   For better view, run the program in full screen
+   Don't view it in Python IDLE instead of it its better to see it in black screen
+   
+4. Enter the password of your mysql correctly otherwise you have to re-start the program
+
+5. For understanding codes read the whole program, there are comments and program is executed from last
+
+6. Close the graph when you see it, otherwise program is stucked up there until you will not close it
+
+
+*Follow these steps to install these modules
+1. Press 
+	- Start + R 
+   Or
+    - Search Run in start and open it 
+2. type 
+	- cmd
+	  press enter
+3. type the following code in command prompt(black screen)
+	- pip install pandas
+	  and press Enter
+	- pip install matplotlib
+	  and press Enter
+	- pip install mysql-connector-python
+	  and press Enter
+	- pip install fpdf
+	  and press Enter
